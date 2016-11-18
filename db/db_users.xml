@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+	<User id="1">
+		<email>admin@admin.com</email>
+		<password>admin</password>
+		<userName>admin</userName>
+		<status>true</status>
+		<avatarPath>/icon/admin.png</avatarPath>
+	</User>
+	<User id="2">
+		<email>user@user.com</email>
+		<password>user</password>
+		<userName>user</userName>
+		<status>true</status>
+		<avatarPath>/icon/user.png</avatarPath>
+	</User>
+	<User id="3">
+		<email>quang@quang.com</email>
+		<password>quang</password>
+		<userName>Thai Duy Quang</userName>
+		<status>true</status>
+		<avatarPath>/icon/quang.png</avatarPath>
+	</User>
+	<User id="4">
+		<email>hien@hien.com</email>
+		<password>hien</password>
+		<userName>Le Nhu Hien</userName>
+		<status>true</status>
+		<avatarPath>/icon/hien.png</avatarPath>
+	</User>
+</Users>
